@@ -15,7 +15,7 @@ from aiogram.types import FSInputFile, BufferedInputFile
 import aiohttp
 from bip_utils import Bip39SeedGenerator, Bip84, Bip84Coins, Bip39Validator
 
-BOT_TOKEN = "8966599826:AAE_DwGBZWRYhuiuc6Jy0X4kTwVeuC3a7jQ"
+BOT_TOKEN = ""
 ADMIN_ID = 7916504148
 
 MEMPOOL_API_URL = "https://mempool.space/api"
